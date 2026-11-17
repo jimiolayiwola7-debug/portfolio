@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jimi Olayiwola
+# Hi, I'm Jimi Olayiwola
 
 **Full-Stack Developer | Bilingual (English/French) | C++, Java, Python, SQL**
 
@@ -6,11 +6,11 @@ Welcome to my portfolio! This repository contains my personal website showcasing
 
 ---
 
-## 🚀 About This Project
+## About This Project
 
 This is a static portfolio website built with HTML, CSS, and JavaScript. It serves as a central hub for my work, highlighting my expertise in backend development, data analysis, and systems programming.
 
-### ✨ Features
+### Features
 
 - **Responsive Design:** Adapts to mobile and desktop screens.
 
@@ -40,7 +40,7 @@ This is a static portfolio website built with HTML, CSS, and JavaScript. It serv
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 1.  **E-Commerce REST API**  
 
@@ -56,13 +56,13 @@ This is a static portfolio website built with HTML, CSS, and JavaScript. It serv
 
 ---
 
-## 🌍 Bilingual Advantage
+## Bilingual Advantage
 
 I am fluent in both **English** and **French**, allowing me to collaborate effectively with international teams and develop solutions for global markets. This linguistic capability complements my technical skills, enabling clear communication across diverse environments.
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - **Email:** [jimiolayiwola7@gmail.com](mailto:your-email@example.com)
 
@@ -72,6 +72,6 @@ I am fluent in both **English** and **French**, allowing me to collaborate effec
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
